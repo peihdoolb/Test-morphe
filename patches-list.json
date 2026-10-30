@@ -12,7 +12,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -20,6 +20,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -40,7 +49,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -48,6 +57,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -68,7 +86,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -76,6 +94,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -108,7 +135,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -116,6 +143,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -246,7 +282,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -254,6 +290,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -284,7 +329,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -292,6 +337,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -312,7 +366,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -320,6 +374,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -342,7 +405,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -350,6 +413,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -370,7 +442,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -378,6 +450,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -390,7 +471,7 @@
     },
     {
       "name": "Enable avatar saving",
-      "description": "Restores the \u201cSave photo\u201d action for avatars opened from a profile and allows screenshots. Other Zalo screenshot protections are unchanged.",
+      "description": "Restores the “Save photo” action for avatars opened from a profile and allows screenshots. Other Zalo screenshot protections are unchanged.",
       "default": true,
       "dependencies": [],
       "compatiblePackages": [
@@ -398,7 +479,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -406,6 +487,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -418,7 +508,7 @@
     },
     {
       "name": "Enable profile cover saving",
-      "description": "Restores the \u201cSave photo\u201d action and allows screenshots for profile cover photos. Other viewer entry points are unchanged.",
+      "description": "Restores the “Save photo” action and allows screenshots for profile cover photos. Other viewer entry points are unchanged.",
       "default": true,
       "dependencies": [],
       "compatiblePackages": [
@@ -426,7 +516,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -434,6 +524,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -454,7 +553,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -462,6 +561,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -482,7 +590,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -490,6 +598,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -510,7 +627,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -518,6 +635,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -578,7 +704,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -586,6 +712,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -606,7 +741,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -614,6 +749,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -674,7 +818,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -682,6 +826,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -742,7 +895,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -750,6 +903,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -770,7 +932,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -778,6 +940,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -798,7 +969,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -806,6 +977,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -826,7 +1006,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -834,6 +1014,15 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
@@ -856,7 +1045,7 @@
           "packageName": "com.zing.zalo",
           "name": "Zalo",
           "description": null,
-          "apkFileType": "APKM",
+          "apkFileType": null,
           "appIconColor": "#0068FF",
           "signatures": null,
           "targets": [
@@ -864,6 +1053,52 @@
               "version": "26.08.01",
               "versionCodes": {
                 "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Send GIF as inline autoplay GIF",
+      "description": "Forces outgoing GIF messages sent from the keyboard or gallery to be flagged as chat.gif rather than chat.photo, enabling inline autoplay on receiving clients.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.zing.zalo",
+          "name": "Zalo",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#0068FF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "26.08.01",
+              "versionCodes": {
+                "ARM64_V8A": 260801903
+              },
+              "isExperimental": false,
+              "minSdk": 24,
+              "description": null
+            },
+            {
+              "version": "26.10.02",
+              "versionCodes": {
+                "ARM64_V8A": 261002903
               },
               "isExperimental": false,
               "minSdk": 24,
